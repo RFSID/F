@@ -1,4 +1,5 @@
-#Sebuah tools untuk Mencrack
+#
+Sebuah tools untuk Mencrack
 
 #Instalasi
 $pkg install python
