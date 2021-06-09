@@ -1,24 +1,25 @@
-#
-Sebuah tools untuk Mencrack
-
-#Instalasi
+# rmbf
+Sebuah tools untuk mengkrek
+### Instalasi
+```
 $pkg install python
 $pkg install git
 $pip install requests bs4 futures
 $git clone https://github.com/Rizal-XD/rmbf
 $cd $HOME/rmbf
 $python run.py
+```
 
-#FITURED
-3 methode cracking
+### FITURED
+*3 methode cracking*
 
-Login with token and cookies
+*Login with token and cookies*
 
-Crack public friendlist
+*Crack public friendlist*
 
-Crack Likes
+*Crack Likes*
 
-Crack followers
+*Crack followers*
 
 Udah gitu aja :v
 
