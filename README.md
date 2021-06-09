@@ -1,12 +1,12 @@
-# rmbf
-Sebuah tools untuk mengkrek
+# F
+Sebuah tools untuk mencrack
 ### Instalasi
 ```
 $pkg install python
 $pkg install git
 $pip install requests bs4 futures
-$git clone https://github.com/Rizal-XD/rmbf
-$cd $HOME/rmbf
+$git clone https://github.com/RFSID/F
+$cd $HOME/F
 $python run.py
 ```
 
@@ -23,4 +23,4 @@ $python run.py
 
 Udah gitu aja :v
 
-Happy cracking
+Happy mengwibu
